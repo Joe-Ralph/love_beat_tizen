@@ -1,0 +1,99 @@
+# Tizen build output
+Debug/
+Release/
+x86/
+arm/
+
+# Tizen IDE files
+.sign
+.settings/
+.tproject
+.cproject
+.project
+
+# Tizen package files
+*.wgt
+*.tpk
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# IDE specific files (add more if needed)
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Tizen specific config files (if you want to exclude them)
+# config.xml
+# tizen-manifest.xml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
